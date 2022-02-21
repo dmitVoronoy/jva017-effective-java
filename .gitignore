@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/.idea/
+/jva017-effective-java.iml
