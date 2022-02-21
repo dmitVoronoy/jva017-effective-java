@@ -25,8 +25,8 @@ public class CheckedExceptionsDemo {
 	}
 
 	public static void main(String[] args) {
-		checkedExceptionTest("resources/testFile.txt");
-		checkedExceptionTest("resources/testFile2.txt");
+		checkedExceptionTest("src/main/resources/testFile.txt");
+		checkedExceptionTest("src/main/resources/testFile2.txt");
 	}
 
 }
